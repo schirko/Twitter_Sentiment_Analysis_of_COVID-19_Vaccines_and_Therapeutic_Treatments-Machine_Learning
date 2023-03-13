@@ -1,5 +1,4 @@
-# Twitter_Sentiment_Analysis_of_COVID-19_Vaccines_and_Therapeutic_Treatments
+Sentiment analysis of Twitter activity concerning therapeutic treatments and possible vaccines during the COVID-19 pandemic: analysis of Hydroxychloroquine, Remdesivir, Regeneron, and COVID-19 vaccines.
 
-This code was for a project in a Data Science Practicum course at Regis University.  
+Keywords: twitter api, sentiment analysis, opinion mining, social networks, python, nltk, textblob, pandas, matplotlib, covid-19 vaccines, covid-19 treatments, naive bayes
 
-The blog for this code is located at: https://sschirko.edublogs.org/
